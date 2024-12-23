@@ -1,4 +1,4 @@
-# Pokédex API
+# Pokemon API
 
 ## Descripción
 
