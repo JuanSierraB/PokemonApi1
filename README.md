@@ -2,7 +2,7 @@
 
 ## Descripción
 
-API RESTful para una Pokédex utilizando Express.js, con autenticación JWT y MongoDB.
+API RESTful para una Pokemon utilizando Express.js, con autenticación JWT y MongoDB.
 
 ## Endpoints
 
